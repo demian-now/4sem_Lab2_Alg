@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest.cpp
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\UnitTest\UnitTest.cpp(226,23): warning C4101: error: неиспользованная локальная переменная
+     Создается библиотека C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\Lab2\Debug\UnitTest.lib и объект C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\Lab2\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\Lab2\Debug\UnitTest.dll

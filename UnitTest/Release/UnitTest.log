@@ -1,0 +1,9 @@
+﻿  UnitTest.cpp
+C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\UnitTest\UnitTest.cpp(226,23): warning C4101: error: неиспользованная локальная переменная
+     Создается библиотека C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\Lab2\Release\UnitTest.lib и объект C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\Lab2\Release\UnitTest.exp
+  Создание кода
+  5 of 455 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  UnitTest.vcxproj -> C:\Users\fastf\Desktop\ПРОГА\4 семестр\АиСД\Lab2\Lab2\Release\UnitTest.dll
